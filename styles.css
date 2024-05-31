@@ -1,0 +1,120 @@
+
+@font-face {
+  font-family: 'MPLUS1p-Light';
+  src: url('MPLUS1p-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'MPLUS1p-Medium';
+  src: url('MPLUS1p-Medium.ttf') format('truetype');
+}
+
+
+body {
+  margin: 0;
+
+  background-color: black;
+  color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh; /* Full viewport height */
+}
+
+.side-panel-left {
+    width: 18%; /* Adjust the width + You need to adjust main width too */
+    <!-- background: linear-gradient(to right, #2B0000, black);  -->
+    background-color: black;
+      background-image: url('keyb.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.side-panel-right {
+  width: 18%; /* Adjust the width + You need to adjust main width too */
+  background-color: black;
+  background-image: url('guitars5.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.left-panel {
+    border-right: 1px solid black; /* Optional: to distinguish the panels */
+}
+
+.right-panel {
+    border-left: 1px solid black; /* Optional: to distinguish the panels */
+}
+
+.main-content {
+    width: 64%; /* Adjust the width as needed */
+    padding-top: 0.1em; /* Padding on the top */
+    padding-left: 1em; /* Padding on the left */
+    padding-right: 1em; /* Padding on the right */
+}
+
+.content-wrapper {
+    width: 100%; /* Ensure full width up to max-width */
+    text-align: left;
+    padding-left: 16em;
+    padding-right: 16em;
+    padding-top: 4.5em;
+    padding-bottom: 1em;
+    box-sizing: border-box;
+}
+
+
+
+.main-content h1 {
+  font-family: 'MPLUS1p-Light', sans-serif;
+  color: #CC5500;
+  text-align: center;
+  font-size: 1.57em;
+  font-weight: bold; /*doesn nothing*/
+}
+
+.main-content h2 {
+    font-family: 'MPLUS1p-Light', sans-serif;
+    color: #CC5500;
+    font-size: 1.6em;
+}
+
+.main-content p {
+    font-size: 0.8em;
+    font-family: 'MPLUS1p-Light', sans-serif;
+    background-color: black;
+    color: white;
+    line-height: 1.6; /* line height for better readability */
+    padding-top: 0em;
+}
+
+.main-content small {
+    font-family: 'MPLUS1p-Light', sans-serif;
+    background-color: black;
+    color: #B22222;   /*  #8B0000 (Dark Red) or #B22222 (Firebrick) */
+}
+
+
+.list-container {
+  text-align: center;
+  padding-left: 1em;
+}
+
+ul.dotted-list {
+    list-style-type: none; /* Removes default list bullets */
+    padding-left: 1em;
+    font-family: 'MPLUS1p-Light', sans-serif;
+    text-align: left;
+    font-size: 0.8em;
+}
+
+
