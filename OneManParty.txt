@@ -1,0 +1,151 @@
+
+For incidental release at ixicarbon.com, 2024-08-18.
+
+Buckethead - One Man Party (partial)
+tab by InHiding
+
+Track 9 from the album Veins of Institution. 
+
+
+Main riff (0:00)
+
+                                          1st ending
+     d   u  d  u  d  u  d  u  d  u  d  u   d u    d  d  d    d  d u
+e|---------------------------------------|--------------------------|
+B|----------0--5-----5--0-----0--5-----5-|---0**--------------------|
+G|---6-S-6--------6--------6--------6--6-|---x----9--9--8br--8--x-x-|
+D|---6-S---------------------------------|-x-x----9--9--9br--9--x-x-|
+A|---4-S---------------------------------|-x------7--7--7----7--x-x-|
+E|---------------------------------------|-x------------------------|
+       * |----- slight palm mute -----|       ** possibly another guitar
+       *
+       * Lower the right hand to mute strings one "tick" before playing the first muted note. 
+         Using a circular picking motion seems to make this easier to accomplish. Buckethead
+         doesn't use tight gating.
+
+
+  2nd ending
+     d u   d  d    d  d   d u
+e|------------------------------|
+B|------------------------------|
+G|-------------------(2)--------|
+D|---x-x---4--4h6--2--2---x-x---|
+A|---x-x---2--2----0--0---x-x---|
+E|---x-x------------------x-x---|
+
+
+  3rd ending
+     d u    d  d  d   d  d u  d  d  d   d  d u  d  d  d   d u d u  
+e|------------------------------------------------------------------|
+B|-----0------------------------------------------------------------|
+G|-----x----9--9--8~--8-------8--8--9~--9---------------------------|
+D|---x-x----9--9--9~--9--x-x--x--x--x---x--x-x--6--6--6---x-x-x-x---|
+A|---x------7--7--7---7--x-x--9--9--9~--9--x-x--7--7--7---x-x-x-x---|
+E|---x-------------------x-x--7--7--7~--7--x-x--5--5--5---x-x-x-x---|
+
+
+
+CHORUS (1:32) (very hard to hear because of the vocals...)
+
+mostly strummed throughout (the amt of muted strums in a sequence is in parenthesis below the x signs)
+
+
+Chorus 1st section (1:32)                                   **The last two repeats here already ring some 
+                                                            **partials from the upcoming chord I think           
+e|----------------------------------------------------------------|
+B|----------------------------------------------------------**----|
+G|---9-9-9---x---13-13-11-8---x--9-9-9--9-9---x---4-4-6-----x-----|
+D|---6-6-6---x---9--9--9--x---x--6-6-6--6-6---x---2-2-2-----x-----|
+A|---x-x-x---x---x--x--x--6---x--x-x-x--x-x---x---x-x-x-----x-----|
+E|---9-9-9---x---12-12-11-7---x--9-9-9--9-9---x---4-4-5--*--x-----|
+            (10)             (2)             (10)        * (4)
+                                                         *Some noise/breakup?, maybe from moving left hand 
+                                                          back to 9th fret                                          
+
+
+Chorus 1st ending (1:39)
+     d u d       d  u  d   d   d    d  u d d  d   d  d u  d u d u
+e|------------------------------------------------------------------|
+B|------------------------------------------------------------------|
+G|---9-9-9---x---13-13-11--11\-8----8--8-8-8--9---6--6-6--x-x-8-8---|
+D|---6-6-6---x---9--9--9---9-\-x----x--x-x-x--x---x--x-x--x-x-x-x---|
+A|---x-x-x---x---x--x--x---x-\-6----6--6-6-6--6---4--4-4--x-x-6-6---|
+E|---9-9-9---x---12-12-11--11\-7----7--7-7-7--7---5--5-5--x-x-7-7---|
+            (10)                
+
+
+Repeat Chorus 1st section
+
+
+
+Chorus 2nd ending (1:55)
+                                    d  d  d u d
+e|------------------------------------------------------------------|
+B|------------------------------------------------------------------|
+G|---9-9-9---x---13-13-11--11\-8----8--8--8-8-9---6--6-6--8-8-x-x---|
+D|---6-6-6---x---9--9--9---9-\-x----x--x--x-x-x---x--x-x--x-x-x-x---|
+A|---x-x-x---x---x--x--x---x-\-6----6--6--6-6-6---4--4-4--6-6-x-x---|
+E|---9-9-9---x---12-12-11--11\-7----7--7--7-7-7---5--5-5--7-7-x-x---|
+            (10)                                                
+                                                                       
+                          
+
+**********LEGEND**********
+
+. or |---P.M.---|   palm mute
+
+x                   left hand mute, for right handed players obviously :)
+
+12/15  or  15\12    Slide up or down. Listen to the length of the initial note before the slide.
+
+//17   or  \\17     Slide (up or down) immediately to the target note from below or above (usually a 
+                    few frets distance). These slides are very fast, so fast they're almost not there.    
+
+/9     or  \9       Slide to the target fret. This is the similar to //9 but the sliding action itself 
+                    takes a while longer
+
+จ                   let note play for a while before next action (which is usually a slide, vibrato, bend, 
+                    pull-off etc). This is not used consistently but to specifically highlight some parts.
+
+15b17               bend up one step (to a note that's equal to fretted 17) from fret number 15. Often these 
+                    are "instant".
+
+pb17r15             prebend up one step at fret 15 and release back to fretted 15
+
+br                  bend up slightly and release. This is less than a 1/2 step move.
+
+d                   downstroke (only tabbed if there's a need to emphasize this)
+
+u                   upstroke (only tabbed if there's a need to emphasize this)
+
+h                   hammer-on
+
+p                   pull-off
+
+~                   vibrato
+
+~^                  more aggressive vibrato
+
+S                   silence / mute string / killswitch
+
+[7]                 natural harmonic on top of fret 7
+
+{9}                 pinch harmonic
+
+lrจจจจจ             let strings ring as long as indicated
+
+(7)                 ghost note = just played somewhat quieter or it's just a very brief note. Makes figuring 
+                    out the accents easier.
+
+*                   something that's commented below the tab
+
+a                   accented chord, only indicated when helpful
+
+
+EXAMPLES:
+
+9จ~^                first play 9th fret and sustain the note for a while and then do an aggressive 
+                    vibrato at the end
+
+**********LEGEND**********
+
