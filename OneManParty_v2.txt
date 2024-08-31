@@ -1,0 +1,151 @@
+
+For incidental release at ixicarbon.com, 2024-08-31.
+
+
+Buckethead - One Man Party (partial, v.2)
+
+tab by InHiding
+
+ 
+
+Track 9 from the album Veins of Institution.
+
+ 
+
+ 
+
+Main riff (0:00)
+
+
+                                          1st ending
+
+     d   u  d  u  d  u  d  u  d  u  d  u   d u    d  d  d    d  d u
+e|---------------------------------------|--------------------------|
+B|----------0--5-----5--0-----0--5-----5-|---0**--------------------|
+G|---6-S-6--------6--------6--------6--6-|---x----9--9--8br--8--x-x-|
+D|---6-S---------------------------------|-x-x----9--9--9br--9--x-x-|
+A|---4-S---------------------------------|-x------7--7--7----7--x-x-|
+E|---------------------------------------|-x------------------------|
+       * |----- slight palm mute -----|       ** possibly another guitar
+       *
+       * Lower the right hand to mute strings one "tick" before playing the first muted note.
+         Using a circular picking motion seems to make this easier to accomplish.  Buckethead
+         doesn't use tight gating.
+
+  
+
+  2nd ending
+
+     d u   d  d    d  d   d u
+e|------------------------------|
+B|------------------------------|
+G|-------------------(2)--------|
+D|---x-x---4--4h6--2--2---x-x---|
+A|---x-x---2--2----0--0---x-x---|
+E|---x-x------------------x-x---|
+
+ 
+ 
+
+  3rd ending
+     d u    d  d  d   d  d u  d  d  d   d  d u  d  d  d   d u d u
+e|------------------------------------------------------------------|
+B|-----0------------------------------------------------------------|
+G|-----x----9--9--8~--8-------8--8--9~--9---------------------------|
+D|---x-x----9--9--9~--9--x-x--x--x--x---x--x-x--6--6--6---x-x-x-x---|
+A|---x------7--7--7---7--x-x--9--9--9~--9--x-x--7--7--7---x-x-x-x---|
+E|---x-------------------x-x--7--7--7~--7--x-x--5--5--5---x-x-x-x---|
+
+ 
+
+ 
+
+ 
+
+CHORUS (1:32) (very hard to hear because of the vocals...)
+
+ 
+mostly strummed throughout (the amt of muted strums in a sequence is in parenthesis below the x signs)
+
+ 
+ 
+
+Chorus 1st section (1:32)                                   **The last two repeats here already ring some
+                                                            **partials from the upcoming chord I think
+e|----------------------------------------------------------------|
+B|----------------------------------------------------------**----|
+G|---9-9-9---x---13-13-11-8---x--9-9-9--9-9---x---4-4-6-----x-----|
+D|---6-6-6---x---9--9--9--x---x--6-6-6--6-6---x---2-2-2-----x-----|
+A|---x-x-x---x---x--x--x--6---x--x-x-x--x-x---x---x-x-x-----x-----|
+E|---9-9-9---x---12-12-11-7---x--9-9-9--9-9---x---4-4-5--*--x-----|
+            (10)             (2)             (10)        * (4)
+                                                         *Some noise/breakup?, maybe from moving left hand
+                                                          back to 9th fret
+
+ 
+ 
+
+Chorus 1st ending (1:39)
+ 
+
+     d u d       d   u   d   d    d   d  d  d  u    d  d  d   d   d u d u
+e|--------------------------------------------------------------------------|
+B|--------------------------------------------------------------------------|
+G|---9-9-9---x---13--13--11--11\8-8---8--8--8--9----6--6--6-S-6-S-8-8-9-9---|
+D|---6-6-6---x---9---9---9----9\6-6---6--6--6--6----4--4--4-S-4-S-6-6-6-6---|
+A|---x-x-x---x---x---x---x------------x--x--x--x----x--x--x---x---x-x-x-x---|
+E|---9-9-9---x---12--12--11-----------7--7--7--7----5--5--5-S-5-S-7-7-9-9---|
+            (10)
+                                                    Just loosen grip a little to slightly
+                                                    silence strings where indicated.                
+
+ 
+
+Repeat Chorus 1st section
+
+ 
+ 
+
+Chorus 2nd ending (1:55)
+
+     d u d       d   u   d   d    d   d  d  d  u    d  d  u
+e|-----------------------------------------------------------|
+B|--------------------------------------------------------0--|
+G|---9-9-9---x---13--13--11--11\8-8---8--8--8--9----6--6--6--|
+D|---6-6-6---x---9---9---9----9\6-6---6--6--6--6----4--4--4--|
+A|---x-x-x---x---x---x---x------------x--x--x--x----x--x--*--|
+E|---9-9-9---x---12--12--11-----------7--7--7--7----5--5--*--|
+            (10)                                          *
+                                                          *??? Your guess is a good as mine here...
+
+
+
+ 
+
+************************************
+
+| d    Downpick
+
+| u    Upstroke
+
+| x    Dead note
+
+| br   Bend release
+
+|(n)   Ghost note
+
+| h    Hammer-on
+
+| ~    Vibrato
+
+| *    Comment
+
+| \    Slide down
+
+ 
+
+| S    silence / mute string / killswitch
+
+ 
+
+************************************
